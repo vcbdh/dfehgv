@@ -1,10 +1,10 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=260a7303-3a5e-4e95-8555-cfaa3dd258e6
+export UUID=c77af9f9-289e-4ba3-b361-8f1928480c51
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=albshara.com
+export ProxySite=rankedkings.com
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
